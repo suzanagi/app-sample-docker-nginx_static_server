@@ -1,4 +1,0 @@
-# Sample program to use Docker
-This program is used for demonstrating the usage of docker.
-The main mechanism of this work is just to publish the static HTML page in the src directry (index.html) on the nginx server.
-The program is made by following the instruction provided by [Dockerによる開発環境構築（Mac + Nginx + PHP-FPM + MySQL）Part 1](https://www.no-title.com/web/docker-mac-nginx-php-fpm)
