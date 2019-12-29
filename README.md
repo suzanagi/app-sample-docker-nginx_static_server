@@ -5,7 +5,7 @@ The program is made by following the instruction provided by the page [Dockerに
 
 ## Summary of the commands
  - start up the docker container by following the yml file (in the top directry): **docker-compose up**
-   You can add "-d" option to activate as a background process.
+   (You can add "-d" option to activate as a background process.)
  - stop the running docker container: **docker-compose stop**
  - list up the container: **docker ps**
-   You can use "-a" option to show the containers already already been stopped
+   (You can use "-a" option to show the containers already already been stopped.)
